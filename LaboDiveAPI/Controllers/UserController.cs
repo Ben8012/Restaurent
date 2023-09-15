@@ -71,7 +71,7 @@ namespace API.Controllers
             //form.Email = "benjamin@mail.com";
             //form.FirstName = "Benjamin";
             //form.LastName = "Sterckx";
-            //form.Birthdate = new DateTime(1980,12,10);
+            form.Birthdate = new DateTime(1980, 12, 10);
             form.AdressId = 1;
             //form.Phone = null;
             //form.InsuranceNumber = null;
